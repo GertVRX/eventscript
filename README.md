@@ -73,7 +73,6 @@ By: Gert
 
 ## 👽 Built by Gert
 
-- GitHub: [github.com/CodePlazaGert](https://github.com/CodePlazaGert)
 - Twitter/X: [@gertgart40](https://x.com/gertgart40)
 
 ---
